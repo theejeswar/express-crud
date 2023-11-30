@@ -147,3 +147,14 @@
 20231128	16:35:45	d15b48b5-9a38-42ee-9f6e-92719779fe7d	GET	 undefined	/refresh
 20231128	16:35:45	2ff38de4-6a48-435d-8cf1-5a663c2783a3	GET	 undefined	/refresh
 20231128	16:35:46	0df94a59-9688-4b4f-8f4e-33715e7e58f1	GET	 undefined	/refresh
+20231129	12:28:54	73dd8e68-678c-4690-b235-663efee6fcf1	POST	 undefined	/register
+20231129	12:31:40	31e0d3d3-6150-4df3-aee4-71182873fc3a	POST	 undefined	/register
+20231129	18:25:22	588eb3f2-e797-4c08-9607-8b7d0cf83a73	GET	 undefined	/logout
+20231129	18:26:42	ab3888dc-948d-44ab-97fc-05d891cf563a	GET	 undefined	/refresh
+20231129	18:34:36	e2e63408-f6e5-46b2-8104-1cfbbb935ece	GET	 undefined	/refresh
+20231129	18:41:21	73f1baaf-e28e-4182-827a-3906d8cdb82b	POST	 undefined	/register
+20231129	18:42:01	0fa8e7f0-5fab-4eb5-877f-a109162f4497	POST	 undefined	/auth
+20231129	18:45:50	1beb58f9-0536-4d2a-bb65-9473442332ba	POST	 undefined	/auth
+20231129	18:47:13	ef7fa3ef-fbed-4201-87d3-03f0524725c2	GET	 undefined	/refresh
+20231129	18:48:13	951aa706-5b34-41a9-b246-29cb790a8b6c	POST	 undefined	/auth
+20231129	18:48:22	6da3c6cf-5cf1-49bf-bbb0-8d304ae40ac9	GET	 undefined	/logout
